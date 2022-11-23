@@ -1,0 +1,20 @@
+body{
+	background-color: #003d13;
+  	color: white;
+}
+.form-login {
+	margin: 0 auto;
+	width: 300px;
+	padding-top: 10px;
+}
+h1 {
+	color: #f8c807;
+	text-align: center;
+	padding-top: 130px;
+}
+.fas {
+	color: black;
+}
+.username {
+	padding-left: 5px;
+}

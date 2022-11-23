@@ -1,0 +1,3 @@
+Erl John Larrobis Accounts's reCAPTCHA keys
+Copy site key: 6Lc9oWAeAAAAAA_ZNUQowneWsp-FafADz1ILAh8V
+Copy Secret key: 6Lc9oWAeAAAAACTZpWDy1-LfHHeV7hNHmpbThGCn
