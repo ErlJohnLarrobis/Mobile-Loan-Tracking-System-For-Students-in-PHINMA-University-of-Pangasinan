@@ -30,8 +30,8 @@ Add Loanee - in here the admin can review the student's application form where t
 ![image](https://user-images.githubusercontent.com/60595663/203491413-e5badbfa-94d4-4269-8ba1-79ed9f082dd6.png)
 Change Password 
 
-Languages:
-HTML | CSS | JavaScript | PHP | MySQL
+Languages and Frameworks:
+HTML | CSS | Bootstrap 5 | JavaScript | PHP | MySQL
 
 Tools:
 Atom | Sublime text 3 | XAMPP 
